@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pedro</title>
+<title>Maju</title>
 <style>
 header{
 background-color: #819c99;
@@ -14,13 +14,23 @@ margin: 0 auto;
 border: solid#819c99;
 padding: 16px;
 
+}
+img{
+ width:700px;
+ 
+ 
 
 }
+
+
+
+
 main{
-background-color: #24302b;;
+background-color: #2b2e2d;;
 color: 5px solid #cf1010;
 max-width: 800px;
 margin: 0 auto;
+
 }
 
 </style>
@@ -28,7 +38,7 @@ margin: 0 auto;
 <body>
 <header>
 <main>
-<img src="https://i.imgur.com/KMhh2GP.jpeg" alt="">
+<img src="KMhh2GP.jpeg" alt="imagens do cantor">
 
 
 
@@ -36,13 +46,16 @@ margin: 0 auto;
 
 <p>Encontraram o famoso cantor anadando nas ruas de chique chique Bahia enquato tomava coca-cola<p>
     
-<h2>Dinossauros: Gigantes que dominaram a Terra.</h2>
+<h2>>Há relatos de que ele anda pelas ruas à noite, segundo o ET Bilu, ele avistou o famoso cantor em uma praia tomando sorvete.</h2>
 
-<p> Por. Pedro</p>
 
-<p> Os dinossauros viveram há milhões de anos, variando de pequenos a gigantes.
-Foram extintos provavelmente por um asteroide e são ancestrais das aves.</p>
-<p>Por um Fã de dinossauros</p>
+ <p style="color: red">Jornalista: MajuSparda</p>
+
+<p> Vários moradores relataram sobre o aparecimento dele, alguns acham ser um espírito e outros afirmam ser real. 
+    Minha equipe de pesquisa viajou para chique chique Bahia e entrevistaram vários hábitantes locais. A primeira
+    pessoa entrevistada foi a Dona Florinda, ela relatou ter visto Michael andando a praça as nove da noite, ela pensou
+    ter sido um fantasma e colocou sal grosso nas portas e janelas de sua casa. Outro entrevistado foi o Sapo Cururu, que disse ter visto o famoso perto de sua janela cantando Chicago.</p>
+
 
 
 
