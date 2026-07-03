@@ -11,18 +11,21 @@ color:#beb8b8;
 text-align: center;
 max-width: 800px;
 margin: 0 auto;
-border: solid#819c99;
 padding: 16px;
+
+
+
 
 }
 img{
  width:700px;
- 
- 
 
 }
 
+div p{
 
+
+}
 
 
 main{
@@ -30,6 +33,9 @@ background-color: #2b2e2d;;
 color: 5px solid #cf1010;
 max-width: 800px;
 margin: 0 auto;
+padding: 16px
+display; flex
+
 
 }
 
@@ -39,14 +45,19 @@ margin: 0 auto;
 <header>
 <main>
 <img src="KMhh2GP.jpeg" alt="imagens do cantor">
+<div>
+
+
 
 
 
 <h1>Micheal jackson é encontrado vivo em chique chique Bahia</h1>
+</div>
+
 
 <p>Encontraram o famoso cantor anadando nas ruas de chique chique Bahia enquato tomava coca-cola<p>
     
-<h2>>Há relatos de que ele anda pelas ruas à noite, segundo o ET Bilu, ele avistou o famoso cantor em uma praia tomando sorvete.</h2>
+<h2>Há relatos de que ele anda pelas ruas à noite, segundo o ET Bilu, ele avistou o famoso cantor em uma praia tomando sorvete.</h2>
 
 
  <p style="color: red">Jornalista: MajuSparda</p>
